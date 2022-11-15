@@ -23,4 +23,4 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Lucas Bernardo          [ ]
 - David Santos            [x]
 - Cleber Ribeiro          [ ]
-- FFagner2			  [X]
+- FFagner2			          [x]
