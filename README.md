@@ -1,5 +1,5 @@
 # Desafios-TEX ![GitHub forks](https://img.shields.io/github/forks/ffagner/Desafios-TEX?style=social)
-
+##Dazendo mudanças no Readme 
 ### Sobre o projeto
 
 O projeto atenderá às demandas solicitadas pelo professor em atividades requisitadas.
@@ -14,13 +14,14 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Logo depois deverão fazer o `commit` e o `push` ao repositorio principal (main);
 
 ## Lista de participantes
-
-- Fagner [ ]
-- Kenny [ ]
-- Wanderson [x]
-- Maria Daniela [ ]
-- Álvaro Flor [ ]
-- Vitor Hugo [ ]
-- Lucas Bernardo [ ]
-- David Santos [ ]
-- Cleber Ribeiro [ ]
+- Fagner                  [x]
+- Kenny                   [ ]
+- Wanderson               [x]
+- Maria Daniela           [ ]
+- Álvaro Flor             [ ]
+- Vitor Hugo              [x]
+- Álvaro Flor             [x]
+- Vitor Hugo              [ ]
+- Lucas Bernardo          [ ]
+- David Santos            [x]
+- Cleber Ribeiro          [ ]
