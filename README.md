@@ -11,7 +11,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Logo depois deverão fazer o `commit` e o `push` ao repositorio principal (main);
 
 ## Lista de participantes
-- Fagner                  [ ]
+- Fagner                  [x]
 - Kenny                   [ ]
 - Wanderson               [ ]
 - Maria Daniela           [ ]
