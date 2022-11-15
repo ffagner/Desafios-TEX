@@ -1,5 +1,5 @@
 # Desafios-TEX ![GitHub forks](https://img.shields.io/github/forks/ffagner/Desafios-TEX?style=social)
-##Dazendo mudanças no Readme 
+##Fazendo mudanças no Readme 
 ### Sobre o projeto
 
 O projeto atenderá às demandas solicitadas pelo professor em atividades requisitadas.
@@ -11,7 +11,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Todos os membros devem fazer o Fork do repositório;
 - Todos deverão marcar sua presença na lista abaixo como no exemplo abaixo;
   > Fulano [X].
-- Logo depois deverão fazer o `commit` e o `push` ao repositorio principal (main);
+- Logo depois deverão fazer o `commit` e o `push` ao repositório principal (main);
 
 ## Lista de participantes
 - Fagner                  [x]
