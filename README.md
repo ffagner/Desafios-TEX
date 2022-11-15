@@ -15,7 +15,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 
 ## Lista de participantes
 - Fagner                  [x]
-- Kenny                   [ ]
+- Kenny                   [x]
 - Wanderson               [x]
 - Maria Daniela           [x]
 - Vitor Hugo              [x]
