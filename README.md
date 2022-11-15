@@ -18,5 +18,5 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Álvaro Flor             [ ]
 - Vitor Hugo              [ ]
 - Lucas Bernardo          [ ]
-- David Santos            [ ]
+- David Santos            [x]
 - Cleber Ribeiro          [ ]
