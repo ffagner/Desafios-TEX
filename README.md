@@ -17,7 +17,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Fagner                  [x]
 - Kenny                   [ ]
 - Wanderson               [x]
-- Maria Daniela           [ ]
+- Maria Daniela           [x]
 - Vitor Hugo              [x]
 - Álvaro Flor             [x]
 - Lucas Bernardo          [ ]
