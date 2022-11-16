@@ -8,7 +8,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 
 **Criar um repositório e envia o convite para todos os membros da equipe.**
 
-## Instuções
+## Instruções
 - Todos os membros devem fazer o Fork do repositório;
 - Todos deverão marcar sua presença na lista abaixo como no exemplo abaixo;
   > Fulano [X].
