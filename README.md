@@ -15,7 +15,7 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 - Logo depois deverão fazer o commit `git commit` e o push `git push origin <sua_branch>` ao repositório remoto;
 - Todos deverão realizar o Pull request de suas alterações;
 - O Adm do repositório deverá revisar os as alterações e realizar o merge das branch;
-- Todos os membros participantes deverão realizar a a sincronizção dos seus repositórios e realizar o pull `git pull` para seu computador;
+- Todos os membros participantes deverão realizar a a sincronização dos seus repositórios e realizar o pull `git pull` para seu computador;
 
 ## Lista de participantes
 - Fagner                  [x]
