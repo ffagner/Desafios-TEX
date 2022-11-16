@@ -8,10 +8,14 @@ O projeto atenderá às demandas solicitadas pelo professor em atividades requis
 
 **Criar um repositório e envia o convite para todos os membros da equipe.**
 
+## Instuções
 - Todos os membros devem fazer o Fork do repositório;
 - Todos deverão marcar sua presença na lista abaixo como no exemplo abaixo;
   > Fulano [X].
-- Logo depois deverão fazer o `commit` e o `push` ao repositório principal (main);
+- Logo depois deverão fazer o commit `git commit` e o push `git push origin <sua_branch>` ao repositório remoto;
+- Todos deverão realizar o Pull request de suas alterações;
+- O Adm do repositorio deverá revisar os as aterações e realizar o merge das branchs;
+- Todos os membros participantes deverão realizar a a sincronição dos seus repozitórios e realizar o pull `git pull` para seu computador;
 
 ## Lista de participantes
 - Fagner                  [x]
